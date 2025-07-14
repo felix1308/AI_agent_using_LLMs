@@ -1,0 +1,5 @@
+# filepath: c:\Vishnuvardhan\Upskill\LLMs_from_scratch\.gitignore
+.env
+__pycache__/
+*.pyc
+.vscode/
