@@ -127,4 +127,4 @@ python-dotenv
 - [Anthropic Claude](https://www.anthropic.com/)
 - [OpenAI](https://platform.openai.com/)
 - [Groq Cloud](https://console.groq.com/)
-- [Code_support](https://www.youtube.com/@TechWithTimithTim)
+- [Code_support](https://www.youtube.com/@TechWithTim)
